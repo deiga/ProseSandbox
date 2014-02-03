@@ -1,0 +1,8 @@
+prose:
+    siteurl: 'http://deiga.github.io/ProseSandbox/'
+    ignore:
+        - _config.yml
+        - /_layouts
+        - /_plugins
+        - /_includes
+
